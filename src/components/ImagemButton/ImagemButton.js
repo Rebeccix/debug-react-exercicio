@@ -12,6 +12,7 @@ function ImagemButton(props) {
     width: 200px;
     padding: 15px 30px;
     margin: 10px auto;
+    cursor: pointer;
     `
 
     const ImgVerMais = styled.img`
